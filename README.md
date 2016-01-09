@@ -1,7 +1,7 @@
-Meteor Starter
+Meteor Starter : Pure JS Version
 ==============
 
-A Meteor boilerplate with a lot packed in. Written in jsscript.
+A Meteor boilerplate with a lot packed in. Converted to pure javascript. Same functionality as yogiben's origin starter.
 
 [Demo](http://starter.meteor.com) - For admin, log in with: `starter@meteorfactory.io` and `meteorrocks`
 
@@ -12,7 +12,7 @@ A Meteor boilerplate with a lot packed in. Written in jsscript.
 ### Setup ####
 
 ```
-git clone https://github.com/yogiben/meteor-starter.git myapp
+git clone https://github.com/patrickbolle/meteor-starter-purejs.git myapp
 cd myapp
 meteor
 ```
