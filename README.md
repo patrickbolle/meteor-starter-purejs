@@ -1,5 +1,6 @@
 Meteor Starter : Pure JS Version
 ==============
+Updated version with Meteor 1.2
 
 A Meteor boilerplate with a lot packed in. Converted to pure javascript. Same functionality as yogiben's origin starter.
 
